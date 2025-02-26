@@ -2,8 +2,8 @@ import { defineConfig } from "vitepress";
 import { fileURLToPath, URL } from "node:url";
 import { getSidebar } from "./utils/getSidebar";
 export default defineConfig({
-  title: "LofiSu",
-  titleTemplate: "LofiSu",
+  title: "zyx",
+  titleTemplate: "zyx",
   // md 文件根目录
   srcDir: "./src",
   lastUpdated: true,
@@ -28,10 +28,10 @@ export default defineConfig({
       provider: "local",
     },
     // 顶部导航栏左侧的社交平台跳转
-    socialLinks: [{ icon: "github", link: "https://github.com/LofiSu" }],
+    socialLinks: [{ icon: "github", link: "https://github.com/zjtdzyx" }],
     // 首页底部版权声明
     footer: {
-      copyright: "Copyright © 2024-present LofiSu",
+      copyright: "Copyright © 2024-present zyx",
     },
     // 文章内导航栏标题
     outlineTitle: "导航栏",

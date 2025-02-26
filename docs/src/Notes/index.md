@@ -8,13 +8,13 @@ types:
   - name: 面经分享
     desc: |-
       Interview experiences
-      27 届前端求职记录
+      26 届前端求职记录
     link: /Notes/Interviews/
     icon: "\U0001F4DD"
   - name: 学习笔记
     desc: |-
       Learning Notes
-      我那磕磕绊绊的开发之路
+      一个人的旅行
     link: /Notes/Learning/
     icon: "\U0001F3C3"
   - name: 随想杂文
